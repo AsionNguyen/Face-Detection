@@ -1,8 +1,8 @@
 # Face Detection
 
-| Face detection model | Guide |
+| Model | Guide |
 | ------------ | ------------- |
-| [![Face detection model][tests-img]][tests-url] | [![Guide][codecov-img]][codecov-url] |
+| [![Model][tests-img]][tests-url] | [![Guide][codecov-img]][codecov-url] |
 
 
 Face detection model : https://github.com/justadudewhohacks/face-api.js/   
