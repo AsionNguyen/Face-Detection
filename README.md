@@ -2,7 +2,7 @@
 
 | Face detection model | Code Coverage |
 | ------------ | ------------- |
-| [![Face detection model][tests-img]][tests-url] | [![Code Coverage][codecov-img]][codecov-url] |
+| [![Face detection model][tests-img]][tests-url] | [![dfd][codecov-img]][codecov-url] |
 
 
 Face detection model : https://github.com/justadudewhohacks/face-api.js/   
